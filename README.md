@@ -2,6 +2,6 @@
 pkg update && pkg upgrade
 pkg install git
 pkg install figlet
-git clone https://github.com/HADIGG2/HADI
+git clone https://github.com/projects/HADI
 cd HADI
-sh HADI.sh
+sh projects.sh
